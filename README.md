@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Libeer:
+# 👋 Hello, I'm Libeer
 
 >### I'm full-stack development student from Czechia 🇨🇿
 
