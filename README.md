@@ -1,5 +1,5 @@
 <div align="center">
-  <p style="font-size: 24px;">👋 Hello, I'm Libeer</p>
+  <h1 style="font-size: 24px;">👋 Hello, I'm Libeer</h1>
   <p style="font-size: 18px;">I'm a full-stack development student from Czechia 🇨🇿</p>
   <p style="font-size: 18px;">My goal is to improve my knowledge of coding by 1% every day</p>
   <p style="font-size: 18px;">I study <i><a href="https://www.theodinproject.com/" style="text-decoration: none;">The Odin Project</a></i></p>
