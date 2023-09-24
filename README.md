@@ -1,6 +1,7 @@
 <div align="center">
   <h1>👋 Hello, I'm Libeer</h1>
     <h3>I'm a full-stack development student from Czechia 🇨🇿</h3>
+      <h3>My goal is to improve my knowledge of coding by 1% every day</h3>
   <h2>💻 I've worked with:</h2>
 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
