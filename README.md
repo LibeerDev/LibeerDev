@@ -1,7 +1,6 @@
 <div align="center">
   <h1 style="font-size: 24px;">👋 Hello, I'm Libeer</h1>
-  <p style="font-size: 18px;">I'm a full-stack development student from Czechia 🇨🇿</p>
-  <p style="font-size: 18px;">I study <i><a href="https://www.theodinproject.com/" style="text-decoration: none;">The Odin Project</a></i></p>
+  <p style="font-size: 18px;">I'm a full-stack developer from Czechia 🇨🇿</p>
   <p style="font-size: 22px;">💻 I've worked with:</p>
 
 
